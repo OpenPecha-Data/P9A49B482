@@ -1,0 +1,1576 @@
+id: b40d8a54b30e4aa180dacc778b078ac3
+annotation_type: index
+revision: '00001'
+annotations:
+  c43d78612b5941bfac865f8d56871faf:
+    work_id: WDAFED2EC
+    span:
+      vol: CI_Adhikaraṇaśamatha 1
+      start: 0
+      end: 48
+  5cced374da444afa9da9e819b3d2bbbc:
+    work_id: WE0C0FA55
+    span:
+      vol: CI_Adhikaraṇaśamatha 2
+      start: 0
+      end: 42
+  7d6c88387b2146b5b8267bc62205995a:
+    work_id: WFF8CBBB2
+    span:
+      vol: CI_Adhikaraṇaśamatha 3
+      start: 0
+      end: 44
+  b4e83910a05f49bfa97e506c7210567e:
+    work_id: WE4044259
+    span:
+      vol: CI_Adhikaraṇaśamatha 4
+      start: 0
+      end: 44
+  66fc277b9673425c9561767c1c620657:
+    work_id: W0249F3E1
+    span:
+      vol: CI_Adhikaraṇaśamatha 5
+      start: 0
+      end: 50
+  0bc849d8f48143da9fd8219651c394f8:
+    work_id: WC1981072
+    span:
+      vol: CI_Adhikaraṇaśamatha 6
+      start: 0
+      end: 48
+  883cd68c993842d3b9d4d01dfb2e55d0:
+    work_id: WAF7E7CBB
+    span:
+      vol: CI_Adhikaraṇaśamatha 7
+      start: 0
+      end: 188
+  891b5d07b53043f3856700e5a2e2edbe:
+    work_id: W2B01E8E6
+    span:
+      vol: CI_Aniyata 1
+      start: 0
+      end: 509
+  338acfda433044c7b85b210b5576c2b5:
+    work_id: W84EB7716
+    span:
+      vol: CI_Aniyata 2
+      start: 0
+      end: 439
+  00c49cfc05354f2d93068bca2952203a:
+    work_id: W4754850C
+    span:
+      vol: CI_Colophon
+      start: 0
+      end: 0
+  a053b9ec97c44f6089747826a1e7bf22:
+    work_id: W44E3C728
+    span:
+      vol: CI_Concluding verses
+      start: 0
+      end: 2117
+  4e56376e027b4ceba4efc5823a25b390:
+    work_id: WC11A61F2
+    span:
+      vol: CI_Conclusion
+      start: 0
+      end: 546
+  fb14ee0213e341d198efee2b327bae74:
+    work_id: WB864DD69
+    span:
+      vol: CI_Formula
+      start: 0
+      end: 2900
+  19beb9396f8145578577c611d7d0ef84:
+    work_id: W5585CD40
+    span:
+      vol: CI_Naiḥsargika 1
+      start: 0
+      end: 143
+  5ddaaf0dab7b4c8b8642abe566122074:
+    work_id: W003E4FBC
+    span:
+      vol: CI_Naiḥsargika 10
+      start: 0
+      end: 2434
+  746db7487d4540dd99dee2a033ac842c:
+    work_id: W0779A0ED
+    span:
+      vol: CI_Naiḥsargika 11
+      start: 0
+      end: 72
+  e0dcd85edb8a49a98d7986b5927339d9:
+    work_id: WA4452BB5
+    span:
+      vol: CI_Naiḥsargika 12
+      start: 0
+      end: 93
+  0fa332a2f5094df7b2b90aebfa70ab21:
+    work_id: W405FE286
+    span:
+      vol: CI_Naiḥsargika 13
+      start: 0
+      end: 269
+  8a78d06ceb994008b715a8d5fac4f187:
+    work_id: W66234CF5
+    span:
+      vol: CI_Naiḥsargika 14
+      start: 0
+      end: 248
+  73b594e22c904a078ecdda1d35e2b2a9:
+    work_id: WD135D1DC
+    span:
+      vol: CI_Naiḥsargika 15
+      start: 0
+      end: 247
+  cde8927a832d4429aab4c3a69a27b791:
+    work_id: W17991F1A
+    span:
+      vol: CI_Naiḥsargika 16
+      start: 0
+      end: 202
+  57ffe0c011db471bbd3d06f90912428d:
+    work_id: W2C11FFA6
+    span:
+      vol: CI_Naiḥsargika 17
+      start: 0
+      end: 115
+  75241a2214f4485db6de5f6433074634:
+    work_id: W4646BB2C
+    span:
+      vol: CI_Naiḥsargika 18
+      start: 0
+      end: 94
+  446d810315734cf4b60058442346f6ac:
+    work_id: W3D8C54C4
+    span:
+      vol: CI_Naiḥsargika 19
+      start: 0
+      end: 84
+  d36905bee333495c81aac7e26bc2ca6c:
+    work_id: W2F57BEB2
+    span:
+      vol: CI_Naiḥsargika 2
+      start: 0
+      end: 193
+  4a942786b46540008b11d534faf1d8e2:
+    work_id: W2CD629CC
+    span:
+      vol: CI_Naiḥsargika 20
+      start: 0
+      end: 81
+  b5e58853d37946c3bbf242205e76c3a7:
+    work_id: W8F350168
+    span:
+      vol: CI_Naiḥsargika 21
+      start: 0
+      end: 101
+  3b13ae76de494394912f0e8d6f7c9ce3:
+    work_id: WAF711041
+    span:
+      vol: CI_Naiḥsargika 22
+      start: 0
+      end: 437
+  e631eea777e14f43bbe641845b2c1d1d:
+    work_id: WC47FF546
+    span:
+      vol: CI_Naiḥsargika 23
+      start: 0
+      end: 121
+  a91fd7384a43430f90a1d40e6f4ae0c5:
+    work_id: W8F8D4FD4
+    span:
+      vol: CI_Naiḥsargika 24
+      start: 0
+      end: 575
+  91aa760962944b26bc7af81aa7455282:
+    work_id: W5BBC6142
+    span:
+      vol: CI_Naiḥsargika 25
+      start: 0
+      end: 272
+  284e68cef132465f978ae24d3d8d5c48:
+    work_id: WE5E6BB25
+    span:
+      vol: CI_Naiḥsargika 26
+      start: 0
+      end: 211
+  273cf325fe5d4dce86af089f76604421:
+    work_id: W9B8181FB
+    span:
+      vol: CI_Naiḥsargika 27
+      start: 0
+      end: 426
+  217063c9f58c44d290d5496de9d7c43c:
+    work_id: W54A00A84
+    span:
+      vol: CI_Naiḥsargika 28
+      start: 0
+      end: 233
+  c1b9ea2732a64e75a8ab23a9097766f6:
+    work_id: WAEEC761A
+    span:
+      vol: CI_Naiḥsargika 29
+      start: 0
+      end: 107
+  277ca4798a8a4277ba3cbe466bf7fe00:
+    work_id: W86CA884A
+    span:
+      vol: CI_Naiḥsargika 3
+      start: 0
+      end: 347
+  88d13dd70c2c42aaa18b74d1c5629310:
+    work_id: WFB9B0ED0
+    span:
+      vol: CI_Naiḥsargika 30
+      start: 0
+      end: 280
+  b276860fd30c435d8a989ec9fc0c6a10:
+    work_id: WE4EA71EA
+    span:
+      vol: CI_Naiḥsargika 4
+      start: 0
+      end: 106
+  275257d4c759463cb9e8088583969640:
+    work_id: WB1C19C67
+    span:
+      vol: CI_Naiḥsargika 5
+      start: 0
+      end: 116
+  14bfe55d37ac482d870274ff8f649c07:
+    work_id: W84444798
+    span:
+      vol: CI_Naiḥsargika 6
+      start: 0
+      end: 236
+  3e844e04cdef4f74920360348576664d:
+    work_id: W84AA5F8A
+    span:
+      vol: CI_Naiḥsargika 7
+      start: 0
+      end: 339
+  3ac8255847544679bea3d6c8167a10f9:
+    work_id: WF33ED78A
+    span:
+      vol: CI_Naiḥsargika 8
+      start: 0
+      end: 617
+  582d03346aed4f5ba610e874783a1c8a:
+    work_id: W89DE1A30
+    span:
+      vol: CI_Naiḥsargika 9
+      start: 0
+      end: 793
+  c5235ad6fab44b56af40c71401115daa:
+    work_id: WE8608ECB
+    span:
+      vol: CI_Pratideśanīya 1
+      start: 0
+      end: 326
+  43e28fc77f6344ca95c86a6e8921ddea:
+    work_id: W6320B280
+    span:
+      vol: CI_Pratideśanīya 2
+      start: 0
+      end: 491
+  7debd3664d3a4193b30bdab7224afde1:
+    work_id: WA1A3978C
+    span:
+      vol: CI_Pratideśanīya 3
+      start: 0
+      end: 356
+  812c61824f594012aef40ad76eab1980:
+    work_id: WAF211D22
+    span:
+      vol: CI_Pratideśanīya 4
+      start: 0
+      end: 469
+  82c2ec67f6fa43f882daf5c9819f9b5e:
+    work_id: W8E156167
+    span:
+      vol: CI_Pārājika 1
+      start: 0
+      end: 225
+  5459239bf5ee4fe8b8e1cd278af99f16:
+    work_id: W6012F742
+    span:
+      vol: CI_Pārājika 2
+      start: 0
+      end: 356
+  5dcf70431f1d4e828f5a0c0ab4a7e0d4:
+    work_id: W05E4E8B7
+    span:
+      vol: CI_Pārājika 3
+      start: 0
+      end: 509
+  ad56c25807714f24b1985d9402c021fc:
+    work_id: W7FDDF4F4
+    span:
+      vol: CI_Pārājika 4
+      start: 0
+      end: 465
+  626acfc86073414989963c64214d4d5c:
+    work_id: W71A64968
+    span:
+      vol: CI_Pāyantika 1
+      start: 0
+      end: 35
+  6ddfdb9426db43d389e8f20dacddec73:
+    work_id: W7B682B06
+    span:
+      vol: CI_Pāyantika 10
+      start: 0
+      end: 300
+  62e76346ef1e429e905b6fade5ef8e39:
+    work_id: W0000B9CD
+    span:
+      vol: CI_Pāyantika 11
+      start: 0
+      end: 48
+  51d58f408ce949ba9c9f88f5bb97152e:
+    work_id: WB08BDC14
+    span:
+      vol: CI_Pāyantika 12
+      start: 0
+      end: 31
+  0275afc113544b52a28d6387923a58fb:
+    work_id: WBEF4F52D
+    span:
+      vol: CI_Pāyantika 13
+      start: 0
+      end: 28
+  b7e239af6db4469694046eeb8386ed7f:
+    work_id: W3CD2DF74
+    span:
+      vol: CI_Pāyantika 14
+      start: 0
+      end: 226
+  08dd0ecf4f554834a0fbb15373dd657d:
+    work_id: WB6C5A4CC
+    span:
+      vol: CI_Pāyantika 15
+      start: 0
+      end: 199
+  e3cdc70ed00047c2b2bf77adb99483f4:
+    work_id: WE20D4DE3
+    span:
+      vol: CI_Pāyantika 16
+      start: 0
+      end: 152
+  4f6890f7371a4c6e9c6e32ae143945b6:
+    work_id: WD7D2E5DD
+    span:
+      vol: CI_Pāyantika 17
+      start: 0
+      end: 213
+  a0059f7f76ff47f69adb1479c183dc04:
+    work_id: WC6BBD240
+    span:
+      vol: CI_Pāyantika 18
+      start: 0
+      end: 155
+  f9528f82bf2f44ba98a8cc00a5eb637d:
+    work_id: W024693E9
+    span:
+      vol: CI_Pāyantika 19
+      start: 0
+      end: 106
+  fbc758a7500d45ba8957399572bcabca:
+    work_id: W6F68AD1A
+    span:
+      vol: CI_Pāyantika 2
+      start: 0
+      end: 29
+  0b3531a2cabc4fb0bbef1e79e2634bd3:
+    work_id: WD0D444A4
+    span:
+      vol: CI_Pāyantika 20
+      start: 0
+      end: 194
+  90de1e644c184333b6cb99011e44f598:
+    work_id: W99E41FAC
+    span:
+      vol: CI_Pāyantika 21
+      start: 0
+      end: 95
+  8315d300a4c94902b914d48359e79c5f:
+    work_id: W6B15E963
+    span:
+      vol: CI_Pāyantika 22
+      start: 0
+      end: 76
+  c12f0496aa444f20beea9165592f4af6:
+    work_id: W58BE244F
+    span:
+      vol: CI_Pāyantika 23
+      start: 0
+      end: 97
+  25b27276c2344487bca3027254f96fa5:
+    work_id: W53BC9EE3
+    span:
+      vol: CI_Pāyantika 24
+      start: 0
+      end: 90
+  28048b58d23c4d2fba6d6a79f5c089ee:
+    work_id: WAC466BAF
+    span:
+      vol: CI_Pāyantika 25
+      start: 0
+      end: 68
+  77b9f7d64eed4f5699a9185cbafbf752:
+    work_id: WE1C6DFDE
+    span:
+      vol: CI_Pāyantika 26
+      start: 0
+      end: 230
+  a37c9600aac646e1ba9868abeeecc0ec:
+    work_id: W6646268E
+    span:
+      vol: CI_Pāyantika 27
+      start: 0
+      end: 147
+  86f4fed1c27648c582148352c3bb75bb:
+    work_id: W138A6B14
+    span:
+      vol: CI_Pāyantika 28
+      start: 0
+      end: 105
+  559218a0f9b343939b11b75dc8bc4212:
+    work_id: W44FD0612
+    span:
+      vol: CI_Pāyantika 29
+      start: 0
+      end: 89
+  888a7ed2f0704e309394555df29723b7:
+    work_id: WB51D4DCF
+    span:
+      vol: CI_Pāyantika 3
+      start: 0
+      end: 29
+  2e9d6c5f9bde463abc500d8d7f0fca1e:
+    work_id: W000EA0A6
+    span:
+      vol: CI_Pāyantika 30
+      start: 0
+      end: 110
+  484c404b53f44834ac6f2c044b0d65c3:
+    work_id: W93691EA9
+    span:
+      vol: CI_Pāyantika 31
+      start: 0
+      end: 133
+  dea268dc9ef0423e9dfb7d761b6c0919:
+    work_id: W11AFBEDC
+    span:
+      vol: CI_Pāyantika 32
+      start: 0
+      end: 102
+  71ea8cc5dab941029e7797c90ecac16d:
+    work_id: W96695717
+    span:
+      vol: CI_Pāyantika 33
+      start: 0
+      end: 385
+  9efe8bd99a444b2b9635a3bded36c11c:
+    work_id: WD3759F5D
+    span:
+      vol: CI_Pāyantika 34
+      start: 0
+      end: 108
+  c9e2a33c8a874ce4b430382be2a73954:
+    work_id: W4304ED83
+    span:
+      vol: CI_Pāyantika 35
+      start: 0
+      end: 252
+  1eb1e4691aae4fdaae6bdc2408481f81:
+    work_id: W162D84BD
+    span:
+      vol: CI_Pāyantika 36
+      start: 0
+      end: 164
+  4c60d691d822495ca725967234c0ec80:
+    work_id: WD2458A82
+    span:
+      vol: CI_Pāyantika 37
+      start: 0
+      end: 81
+  d62668d97e2b4a5b8cbad263ea89a895:
+    work_id: W3B36A3EA
+    span:
+      vol: CI_Pāyantika 38
+      start: 0
+      end: 81
+  ace42f00d4e04fdca2047cfd3bdea43d:
+    work_id: W3C0F3FB4
+    span:
+      vol: CI_Pāyantika 39
+      start: 0
+      end: 98
+  9e49ffad2dc648eca9029ed15f156ac5:
+    work_id: W51CB7493
+    span:
+      vol: CI_Pāyantika 4
+      start: 0
+      end: 118
+  2a1ab02b0f1a43f0a1adf388055d3dfc:
+    work_id: W848FC352
+    span:
+      vol: CI_Pāyantika 40
+      start: 0
+      end: 350
+  3347677d29c044c497ff2ddbfb7a1e15:
+    work_id: W33155C21
+    span:
+      vol: CI_Pāyantika 41
+      start: 0
+      end: 73
+  0eb970e81801474ab14af2afbe95eeb1:
+    work_id: W9BBB7AB7
+    span:
+      vol: CI_Pāyantika 42
+      start: 0
+      end: 89
+  367ac1ce3bd047ae90c208021ac23623:
+    work_id: W3C85B816
+    span:
+      vol: CI_Pāyantika 43
+      start: 0
+      end: 87
+  5ec8e3ee0d9e4d5fbb20fb709b0dd155:
+    work_id: W87027F12
+    span:
+      vol: CI_Pāyantika 44
+      start: 0
+      end: 134
+  df93aeed6300472c86181e86fca5dc58:
+    work_id: W8669353F
+    span:
+      vol: CI_Pāyantika 45
+      start: 0
+      end: 72
+  e8231009b86c4d19b34ad506d1df5cb5:
+    work_id: W9D898558
+    span:
+      vol: CI_Pāyantika 46
+      start: 0
+      end: 177
+  24b476e79d184c17a9349953835cc81b:
+    work_id: WD2A78701
+    span:
+      vol: CI_Pāyantika 47
+      start: 0
+      end: 159
+  9a870af5867641ca84213cc682c210cb:
+    work_id: W59669CAF
+    span:
+      vol: CI_Pāyantika 48
+      start: 0
+      end: 97
+  c9bd352cd8574358af0b1b4a7dab360d:
+    work_id: W25BD7772
+    span:
+      vol: CI_Pāyantika 49
+      start: 0
+      end: 127
+  9a5deb6ad02645e795fac0dcc2f0690f:
+    work_id: W1F611CF7
+    span:
+      vol: CI_Pāyantika 5
+      start: 0
+      end: 104
+  91a498de8cf44d4389d925991c3ea001:
+    work_id: W011CFE07
+    span:
+      vol: CI_Pāyantika 50
+      start: 0
+      end: 194
+  58b39d79c3c24067a135e49ba03c027e:
+    work_id: W39971138
+    span:
+      vol: CI_Pāyantika 51
+      start: 0
+      end: 427
+  1f83201dacfd4418adae402e5f5bbb10:
+    work_id: W1CA49CFE
+    span:
+      vol: CI_Pāyantika 52
+      start: 0
+      end: 107
+  c7e31ac2e79c4c2ea7e34f54b3419fd0:
+    work_id: WFCF5BF51
+    span:
+      vol: CI_Pāyantika 53
+      start: 0
+      end: 184
+  c69b8e8fe3a44613808cff991fba0916:
+    work_id: WB585458A
+    span:
+      vol: CI_Pāyantika 54
+      start: 0
+      end: 107
+  e04b80741d384694889045c4719a9b55:
+    work_id: WA88ABBE3
+    span:
+      vol: CI_Pāyantika 55
+      start: 0
+      end: 912
+  58cb3c22bb544ef0a7dea15b3e316668:
+    work_id: W6BFC1B2E
+    span:
+      vol: CI_Pāyantika 56
+      start: 0
+      end: 196
+  ed7c822cc6494b559c2c1f4198d45c85:
+    work_id: WC20997E0
+    span:
+      vol: CI_Pāyantika 57
+      start: 0
+      end: 1416
+  5439cab2e4ae48c5b847a6f9e54f2f16:
+    work_id: WC9FE26F6
+    span:
+      vol: CI_Pāyantika 58
+      start: 0
+      end: 285
+  c3782a4777c747fd928c1d38f35846c7:
+    work_id: W64684CD3
+    span:
+      vol: CI_Pāyantika 59
+      start: 0
+      end: 287
+  5081d6ee63dd4a17a4cf26515a6a901f:
+    work_id: WC7FC3ACC
+    span:
+      vol: CI_Pāyantika 6
+      start: 0
+      end: 80
+  d7ca86c9255e41afb04c9a3f67a514d6:
+    work_id: W442852C1
+    span:
+      vol: CI_Pāyantika 60
+      start: 0
+      end: 273
+  b50dcf89bab04fb2ae7659fabad6512a:
+    work_id: W1174D337
+    span:
+      vol: CI_Pāyantika 61
+      start: 0
+      end: 87
+  2e21d06c642344879bace8fa8ed270ce:
+    work_id: W4C248483
+    span:
+      vol: CI_Pāyantika 62
+      start: 0
+      end: 160
+  0ba61b4bc1884f19aaf327569983896f:
+    work_id: WEE3849FF
+    span:
+      vol: CI_Pāyantika 63
+      start: 0
+      end: 30
+  924d9efc38d0401b802338dbcbbf7e43:
+    work_id: W7B58465D
+    span:
+      vol: CI_Pāyantika 64
+      start: 0
+      end: 27
+  af0692cfe2b44197b23fcfe0e1d1b957:
+    work_id: W915CC338
+    span:
+      vol: CI_Pāyantika 65
+      start: 0
+      end: 75
+  88ac029f239942e395ebe59ccf084155:
+    work_id: W28A37FFE
+    span:
+      vol: CI_Pāyantika 66
+      start: 0
+      end: 85
+  3a72ef35a3fe4b20bc4b0d26865030ec:
+    work_id: WCD34AE7D
+    span:
+      vol: CI_Pāyantika 67
+      start: 0
+      end: 254
+  8072b7868ff6433db12e310f692f7b00:
+    work_id: W21154E91
+    span:
+      vol: CI_Pāyantika 68
+      start: 0
+      end: 96
+  16f9bb24614a4534a34265af5d04de57:
+    work_id: WC8BB5551
+    span:
+      vol: CI_Pāyantika 69
+      start: 0
+      end: 127
+  19812e13a6d94bdb923483b45dccf3ac:
+    work_id: WA440EEED
+    span:
+      vol: CI_Pāyantika 7
+      start: 0
+      end: 122
+  9612586c0f7a41abb35327bef9029fd9:
+    work_id: W36A6DA0A
+    span:
+      vol: CI_Pāyantika 70
+      start: 0
+      end: 111
+  c3cdc9bfbb394ff38eee3ab80bab974d:
+    work_id: W685D3EDD
+    span:
+      vol: CI_Pāyantika 71
+      start: 0
+      end: 108
+  1b38169a425a485da35ccd820d444486:
+    work_id: W9056CA6A
+    span:
+      vol: CI_Pāyantika 72
+      start: 0
+      end: 154
+  6b9945e86eed4bf9879d353446b9cfed:
+    work_id: WAAB1A149
+    span:
+      vol: CI_Pāyantika 73
+      start: 0
+      end: 71
+  8e825440baca481783ce76043c453ff4:
+    work_id: WC0126727
+    span:
+      vol: CI_Pāyantika 74
+      start: 0
+      end: 175
+  6efc2b14c7d24e05a05703537026a7ee:
+    work_id: W544A8BF6
+    span:
+      vol: CI_Pāyantika 75
+      start: 0
+      end: 359
+  fc20465ed6dd47a6a59f1f479336aec0:
+    work_id: WD883C48A
+    span:
+      vol: CI_Pāyantika 76
+      start: 0
+      end: 207
+  5529b7c2818e4db18d575826d77e6e49:
+    work_id: WF0363F10
+    span:
+      vol: CI_Pāyantika 77
+      start: 0
+      end: 164
+  cf885c4272714133aa529abe616b7977:
+    work_id: W326B4C1A
+    span:
+      vol: CI_Pāyantika 78
+      start: 0
+      end: 27
+  7587f3047c1946d89fa150d771a577a8:
+    work_id: W1C92196E
+    span:
+      vol: CI_Pāyantika 79
+      start: 0
+      end: 35
+  e3835c4b52294b6396cc96212629f1e3:
+    work_id: WFE48CA64
+    span:
+      vol: CI_Pāyantika 8
+      start: 0
+      end: 93
+  5c39441057584926a52c7243da46967b:
+    work_id: W128289D9
+    span:
+      vol: CI_Pāyantika 80
+      start: 0
+      end: 108
+  8fb7027707404c29844008c08d6cdd00:
+    work_id: WDF7FBB6B
+    span:
+      vol: CI_Pāyantika 81
+      start: 0
+      end: 166
+  2503afc27056479d849f764bc7f8f8f6:
+    work_id: W5796A00E
+    span:
+      vol: CI_Pāyantika 82
+      start: 0
+      end: 218
+  986b83fc0b924bf982bef1f84e90f194:
+    work_id: W7CC7880F
+    span:
+      vol: CI_Pāyantika 83
+      start: 0
+      end: 665
+  39076ea0cad9447d86ce16a569b04219:
+    work_id: W48883699
+    span:
+      vol: CI_Pāyantika 84
+      start: 0
+      end: 92
+  53daad71d9004bf99d40fc188067a515:
+    work_id: W546707B5
+    span:
+      vol: CI_Pāyantika 85
+      start: 0
+      end: 155
+  2e0054ddb33c421b89367e9d740066a1:
+    work_id: WE9428B96
+    span:
+      vol: CI_Pāyantika 86
+      start: 0
+      end: 95
+  08851379c4284b58a9107e1dd863f850:
+    work_id: WB854FE59
+    span:
+      vol: CI_Pāyantika 87
+      start: 0
+      end: 196
+  19ba968e66be434a8b0980718be1b5ab:
+    work_id: WD5C6E466
+    span:
+      vol: CI_Pāyantika 88
+      start: 0
+      end: 182
+  a48d06baac594c95a03e8536dd7ece39:
+    work_id: WAD317331
+    span:
+      vol: CI_Pāyantika 89
+      start: 0
+      end: 182
+  ff72ae9a9abb4b34a0ccf4bfea52979b:
+    work_id: WB6D7AAA8
+    span:
+      vol: CI_Pāyantika 9
+      start: 0
+      end: 170
+  13a44ed5eee743a38b8586be657e5e56:
+    work_id: W98149AEA
+    span:
+      vol: CI_Pāyantika 90
+      start: 0
+      end: 199
+  011063cec676414ab758763ab3f37159:
+    work_id: W88440294
+    span:
+      vol: CI_Saṃghāvaśeṣa 1
+      start: 0
+      end: 66
+  5904b677f36949c3aa8c1d7ed627d62f:
+    work_id: W5554115D
+    span:
+      vol: CI_Saṃghāvaśeṣa 10
+      start: 0
+      end: 873
+  0b487ca1cf9241d3a2f27e42ee9e6787:
+    work_id: W09AC1B9A
+    span:
+      vol: CI_Saṃghāvaśeṣa 11
+      start: 0
+      end: 1224
+  09234f3becd64fb9927bc31c9a1cde37:
+    work_id: W4B44C366
+    span:
+      vol: CI_Saṃghāvaśeṣa 12
+      start: 0
+      end: 1557
+  aebcc8370af548fdbbcc3da8f43b7976:
+    work_id: WC445978A
+    span:
+      vol: CI_Saṃghāvaśeṣa 13
+      start: 0
+      end: 1187
+  e364d59c3eef406f9842c1f0779f92d2:
+    work_id: WEC5F7F15
+    span:
+      vol: CI_Saṃghāvaśeṣa 2
+      start: 0
+      end: 235
+  4c0aea1691de42e3a37615af1e3b961b:
+    work_id: W995FCEEE
+    span:
+      vol: CI_Saṃghāvaśeṣa 3
+      start: 0
+      end: 164
+  db898b6151af40e0ac5df757c501baea:
+    work_id: WC36B6A8B
+    span:
+      vol: CI_Saṃghāvaśeṣa 4
+      start: 0
+      end: 273
+  a6cee43c015a4ded9ff2b521b33be59f:
+    work_id: W79A32FB5
+    span:
+      vol: CI_Saṃghāvaśeṣa 5
+      start: 0
+      end: 157
+  e56d6c7695854160a38318c772c0036e:
+    work_id: W0B24F782
+    span:
+      vol: CI_Saṃghāvaśeṣa 6
+      start: 0
+      end: 512
+  78398978df1d427fa12e5c16b95139ce:
+    work_id: WABBC0CE7
+    span:
+      vol: CI_Saṃghāvaśeṣa 7
+      start: 0
+      end: 345
+  03e5a4bf350148fd93fcf6c12bfaec38:
+    work_id: W0C5A7FF5
+    span:
+      vol: CI_Saṃghāvaśeṣa 8
+      start: 0
+      end: 300
+  98f09c61fef04e5abe19a743258f1d0a:
+    work_id: WC6242B21
+    span:
+      vol: CI_Saṃghāvaśeṣa 9
+      start: 0
+      end: 430
+  c5615d4d1d914583b04adb52260c6a16:
+    work_id: W00BB852A
+    span:
+      vol: CI_Śaikṣa 1
+      start: 0
+      end: 59
+  b2ee64f408d7413a9e40ffd1bc9fe8f6:
+    work_id: W0930B96C
+    span:
+      vol: CI_Śaikṣa 10
+      start: 0
+      end: 58
+  0df4e78054ab4a5799888400b9ae5aab:
+    work_id: WA93CD5B7
+    span:
+      vol: CI_Śaikṣa 100
+      start: 0
+      end: 67
+  eac9a96c68c24d399b52dea768c49869:
+    work_id: WB000B110
+    span:
+      vol: CI_Śaikṣa 101
+      start: 0
+      end: 67
+  fd6a4f2712d647d9bb7b47672a570d94:
+    work_id: WABBC07EE
+    span:
+      vol: CI_Śaikṣa 102
+      start: 0
+      end: 67
+  01119a400b3b4ec5bd946c9977374731:
+    work_id: W0FF2E52E
+    span:
+      vol: CI_Śaikṣa 103
+      start: 0
+      end: 65
+  194bb00f1362462eae06c4340437a979:
+    work_id: W5A0B0C38
+    span:
+      vol: CI_Śaikṣa 104
+      start: 0
+      end: 61
+  005617bed7e249b79d8e6b283c4e01f3:
+    work_id: WEF2E966D
+    span:
+      vol: CI_Śaikṣa 105
+      start: 0
+      end: 64
+  58c4b60dba3a4662add03f0a866ab5c5:
+    work_id: W85435A8E
+    span:
+      vol: CI_Śaikṣa 106
+      start: 0
+      end: 101
+  34428cffc8d140e8bf7dd4fb7c5c9b5c:
+    work_id: W468FC878
+    span:
+      vol: CI_Śaikṣa 107
+      start: 0
+      end: 118
+  cab38e1e2feb4a98bc2da9ae85ff75ed:
+    work_id: WB2BEBB79
+    span:
+      vol: CI_Śaikṣa 108
+      start: 0
+      end: 72
+  78b0b1a078e84d279700a4463163520b:
+    work_id: W94F88293
+    span:
+      vol: CI_Śaikṣa 11
+      start: 0
+      end: 52
+  ebb75c7a991a4d6f98c2c35d9aff4713:
+    work_id: W0DD8C6A5
+    span:
+      vol: CI_Śaikṣa 12
+      start: 0
+      end: 57
+  e852bb4a17f04d948ac6ffac86ce21f3:
+    work_id: W9590D997
+    span:
+      vol: CI_Śaikṣa 13
+      start: 0
+      end: 52
+  52811a5cfd2f4f8cb349f86cbc8b8874:
+    work_id: W0E9C516D
+    span:
+      vol: CI_Śaikṣa 14
+      start: 0
+      end: 60
+  b48241e6c17f4371870ac2f3c4911309:
+    work_id: WF877972F
+    span:
+      vol: CI_Śaikṣa 15
+      start: 0
+      end: 59
+  95f8a12d27b242d0bc12b9e392a33153:
+    work_id: W2F566EF6
+    span:
+      vol: CI_Śaikṣa 16
+      start: 0
+      end: 55
+  079dc1bc8c0d46258a607c6fce328425:
+    work_id: WE42B9D1C
+    span:
+      vol: CI_Śaikṣa 17
+      start: 0
+      end: 56
+  2fb0473138a248fb9cc3c63f09896e8e:
+    work_id: W8404809C
+    span:
+      vol: CI_Śaikṣa 18
+      start: 0
+      end: 56
+  0045abc6bc534ce1b90c6021f281cdcb:
+    work_id: W721DE09C
+    span:
+      vol: CI_Śaikṣa 19
+      start: 0
+      end: 57
+  c9ab7e9b108e4502816014e4dcc6deee:
+    work_id: WB77CF0F8
+    span:
+      vol: CI_Śaikṣa 2
+      start: 0
+      end: 59
+  193ac8c808364b99a276b9c89aa0ffa1:
+    work_id: WB66D4256
+    span:
+      vol: CI_Śaikṣa 20
+      start: 0
+      end: 59
+  01c8b87563e84998a8155a7e9201a10b:
+    work_id: W5467B98C
+    span:
+      vol: CI_Śaikṣa 21
+      start: 0
+      end: 55
+  fe1322f031b14ab6b1ac1da7abd2e519:
+    work_id: W9098B2FC
+    span:
+      vol: CI_Śaikṣa 22
+      start: 0
+      end: 57
+  33d301ed53344c898433cd116867e278:
+    work_id: WB93030F7
+    span:
+      vol: CI_Śaikṣa 23
+      start: 0
+      end: 55
+  9912a9e4347d40a78168209e32fbfcf8:
+    work_id: WBC246854
+    span:
+      vol: CI_Śaikṣa 24
+      start: 0
+      end: 63
+  b40699d67b674480b16f6cb0400bcdd5:
+    work_id: WEDDF5D3A
+    span:
+      vol: CI_Śaikṣa 25
+      start: 0
+      end: 58
+  89a84f82202e46e3b520826b019d5bf4:
+    work_id: W83190075
+    span:
+      vol: CI_Śaikṣa 26
+      start: 0
+      end: 61
+  134d3dac6ee14d71a37b9a89dfdab2e7:
+    work_id: W1F1B611F
+    span:
+      vol: CI_Śaikṣa 27
+      start: 0
+      end: 61
+  6fe69e1fb4584a578ae19e2f2d79ebc3:
+    work_id: W62377622
+    span:
+      vol: CI_Śaikṣa 28
+      start: 0
+      end: 53
+  d58626434a3949fc89e1c111720fa2fa:
+    work_id: W890BC880
+    span:
+      vol: CI_Śaikṣa 29
+      start: 0
+      end: 59
+  b88add91194a46afb4477f648ce50706:
+    work_id: W12F4F80F
+    span:
+      vol: CI_Śaikṣa 3
+      start: 0
+      end: 60
+  a50d97be5f81462eb9ebef2aabdac4e5:
+    work_id: WD21386D8
+    span:
+      vol: CI_Śaikṣa 30
+      start: 0
+      end: 64
+  956dce13d8ee41d6ae7744b0af97b52c:
+    work_id: W78B96BEE
+    span:
+      vol: CI_Śaikṣa 31
+      start: 0
+      end: 59
+  8c1ca35b46f94328875774c76ba9aea8:
+    work_id: WBE16C6F3
+    span:
+      vol: CI_Śaikṣa 32
+      start: 0
+      end: 68
+  ff3f449fe1d3462382a51678cae1151b:
+    work_id: W350BD527
+    span:
+      vol: CI_Śaikṣa 33
+      start: 0
+      end: 73
+  5ecd23a6e266466b83c5bd7814d4dd07:
+    work_id: WFC89CC8F
+    span:
+      vol: CI_Śaikṣa 34
+      start: 0
+      end: 68
+  823568d7c8354f8fb8f41c59c95ac670:
+    work_id: W08006E89
+    span:
+      vol: CI_Śaikṣa 35
+      start: 0
+      end: 72
+  f56041bf07b844d9a530e79307f5adca:
+    work_id: W02448560
+    span:
+      vol: CI_Śaikṣa 36
+      start: 0
+      end: 73
+  b1dbb493c9dd429c9f1e067540c0cb5a:
+    work_id: W4B0697CF
+    span:
+      vol: CI_Śaikṣa 37
+      start: 0
+      end: 68
+  0f6f16c8fa034ac1a32cbb46e3b17557:
+    work_id: W2164EC7E
+    span:
+      vol: CI_Śaikṣa 38
+      start: 0
+      end: 67
+  a8252d637c364aca8f396e0a154581da:
+    work_id: WD1ECEEDB
+    span:
+      vol: CI_Śaikṣa 39
+      start: 0
+      end: 65
+  8d17dcd29abb417da185e2239cb6e600:
+    work_id: W52B4475E
+    span:
+      vol: CI_Śaikṣa 4
+      start: 0
+      end: 63
+  c1a54f90192b4be2b8746fa3ae9aa944:
+    work_id: WCB9B7467
+    span:
+      vol: CI_Śaikṣa 40
+      start: 0
+      end: 58
+  6dbeea41b1b84ba1832c1afb7144c5cb:
+    work_id: WFDABD41A
+    span:
+      vol: CI_Śaikṣa 41
+      start: 0
+      end: 63
+  ac636290671a402ba5963f013937f2d2:
+    work_id: WACA2EAA0
+    span:
+      vol: CI_Śaikṣa 42
+      start: 0
+      end: 62
+  c4fbe39c06fa45e1a80077844689fca1:
+    work_id: WD271B834
+    span:
+      vol: CI_Śaikṣa 43
+      start: 0
+      end: 59
+  fa13bbb4f51e4f1d99696609fd88ef3a:
+    work_id: W88840F08
+    span:
+      vol: CI_Śaikṣa 44
+      start: 0
+      end: 74
+  7b158a23232744348ba978c0b73c57d6:
+    work_id: W705D537E
+    span:
+      vol: CI_Śaikṣa 45
+      start: 0
+      end: 59
+  a3086053bd764a4aaa0df58a81ba7299:
+    work_id: W31B2DC6F
+    span:
+      vol: CI_Śaikṣa 46
+      start: 0
+      end: 63
+  9b1aecaa933144d6926b31dd9dd3f051:
+    work_id: W864D988B
+    span:
+      vol: CI_Śaikṣa 47
+      start: 0
+      end: 71
+  01ffcb0d253e4dfbacbc22085365d8dd:
+    work_id: WA8FA064E
+    span:
+      vol: CI_Śaikṣa 48
+      start: 0
+      end: 56
+  c5a054e691e04f908381c14a8e3ac88c:
+    work_id: W79DD9E1A
+    span:
+      vol: CI_Śaikṣa 49
+      start: 0
+      end: 61
+  6ab827caa8f040a8a30bb73c442d7108:
+    work_id: W1DA23931
+    span:
+      vol: CI_Śaikṣa 5
+      start: 0
+      end: 60
+  2ebd4c279aa64b038773bcbbf4d53168:
+    work_id: W5AF5E7A2
+    span:
+      vol: CI_Śaikṣa 50
+      start: 0
+      end: 60
+  f203bb1d3b2e41e79ffa233f47f1aea3:
+    work_id: WE0596927
+    span:
+      vol: CI_Śaikṣa 51
+      start: 0
+      end: 55
+  056cabe0d3a04fbcb2dc47cf5215bd2c:
+    work_id: WCFFCE9EE
+    span:
+      vol: CI_Śaikṣa 52
+      start: 0
+      end: 63
+  a5be4c9872bc45f6980c095367bb37ef:
+    work_id: W89DF275B
+    span:
+      vol: CI_Śaikṣa 53
+      start: 0
+      end: 64
+  ce7c34832596440cb5cb7ea12c08898a:
+    work_id: WAA74EE1A
+    span:
+      vol: CI_Śaikṣa 54
+      start: 0
+      end: 64
+  7aaf725ec7fa44028b59f55617dcd9f4:
+    work_id: W7531397E
+    span:
+      vol: CI_Śaikṣa 55
+      start: 0
+      end: 65
+  31e1a572c80b4440bdb0939bc21d30af:
+    work_id: W05284084
+    span:
+      vol: CI_Śaikṣa 56
+      start: 0
+      end: 65
+  eeb89be71d6e48e98c614622afb98180:
+    work_id: W9D9DBDCD
+    span:
+      vol: CI_Śaikṣa 57
+      start: 0
+      end: 68
+  6fac846f87e844629232de9d9699493d:
+    work_id: W10500AEA
+    span:
+      vol: CI_Śaikṣa 58
+      start: 0
+      end: 66
+  6b7ca8128ed3428a84588bf97c732c46:
+    work_id: W83796840
+    span:
+      vol: CI_Śaikṣa 59
+      start: 0
+      end: 70
+  348c168ac8584f18931658079f720155:
+    work_id: W4E2F4F6E
+    span:
+      vol: CI_Śaikṣa 6
+      start: 0
+      end: 65
+  c8c9024f43874f73a7d872caefb351fb:
+    work_id: W1807A75C
+    span:
+      vol: CI_Śaikṣa 60
+      start: 0
+      end: 64
+  1c2a422a96084ddb832947fe10b61781:
+    work_id: WA2D181E4
+    span:
+      vol: CI_Śaikṣa 61
+      start: 0
+      end: 65
+  650220f821994cfbac0afe94e1ec5980:
+    work_id: W84CDBEB3
+    span:
+      vol: CI_Śaikṣa 62
+      start: 0
+      end: 65
+  65231ebc5d7a41f9abee2acf206f891c:
+    work_id: W74704468
+    span:
+      vol: CI_Śaikṣa 63
+      start: 0
+      end: 66
+  a1d6b4cc9a0c4508af6c494a749460e9:
+    work_id: WC98C8C9D
+    span:
+      vol: CI_Śaikṣa 64
+      start: 0
+      end: 65
+  e440103831794608bbd119aa5bdf45c1:
+    work_id: W3E5EAC60
+    span:
+      vol: CI_Śaikṣa 65
+      start: 0
+      end: 65
+  f61005a296eb49dfbf7da2ffac0a3ee0:
+    work_id: WCC5BFA93
+    span:
+      vol: CI_Śaikṣa 66
+      start: 0
+      end: 67
+  cbe3f5bbd14c4d9fae05566d1c81c954:
+    work_id: W652355B4
+    span:
+      vol: CI_Śaikṣa 67
+      start: 0
+      end: 67
+  fad6fa37132f498ebd81cbd431aa634c:
+    work_id: WD88C7BB3
+    span:
+      vol: CI_Śaikṣa 68
+      start: 0
+      end: 70
+  375d62845424485ba487e8283859fe4c:
+    work_id: W04BE86D4
+    span:
+      vol: CI_Śaikṣa 69
+      start: 0
+      end: 83
+  3add5894ecbe4e64b7d4d82e752a4d64:
+    work_id: WE4465A98
+    span:
+      vol: CI_Śaikṣa 7
+      start: 0
+      end: 62
+  53f6460d07584471aaa470f16b6d2b16:
+    work_id: W6D69D9B5
+    span:
+      vol: CI_Śaikṣa 70
+      start: 0
+      end: 68
+  b3eecfe003334f0e9a98f741ca7e6342:
+    work_id: WA1C3C34E
+    span:
+      vol: CI_Śaikṣa 71
+      start: 0
+      end: 65
+  a8b67fcf343f48149f520dde3c9df059:
+    work_id: WF1BCF7E0
+    span:
+      vol: CI_Śaikṣa 72
+      start: 0
+      end: 63
+  bfb1b2f638c7410fa81565b3afb83601:
+    work_id: W5095DCAD
+    span:
+      vol: CI_Śaikṣa 73
+      start: 0
+      end: 56
+  160d0b95327c486ba63d74d70c1e0b56:
+    work_id: W51A6895B
+    span:
+      vol: CI_Śaikṣa 74
+      start: 0
+      end: 68
+  31362543863d402e82e8d529b204e011:
+    work_id: W8B4FB009
+    span:
+      vol: CI_Śaikṣa 75
+      start: 0
+      end: 75
+  8f957c99d840485c8b2d9a39a8c7297b:
+    work_id: W10C38A03
+    span:
+      vol: CI_Śaikṣa 76
+      start: 0
+      end: 54
+  27c3398831ab42c4981365b085ee8251:
+    work_id: W6B4A705C
+    span:
+      vol: CI_Śaikṣa 77
+      start: 0
+      end: 76
+  2403f72786c144259b539ecc4e04c180:
+    work_id: W20429FCC
+    span:
+      vol: CI_Śaikṣa 78
+      start: 0
+      end: 79
+  7545690b5fe349979bbdaaa7d9a14916:
+    work_id: WBB0A4F04
+    span:
+      vol: CI_Śaikṣa 79
+      start: 0
+      end: 70
+  1392ec6dc7a6427abb182d25a9e2eadd:
+    work_id: WD51B6401
+    span:
+      vol: CI_Śaikṣa 8
+      start: 0
+      end: 57
+  4fb00a89819349d4950e8c7823f4f16c:
+    work_id: W4EFB100E
+    span:
+      vol: CI_Śaikṣa 80
+      start: 0
+      end: 70
+  d58c4195d0a744b4b6e65b651ef43fe8:
+    work_id: W6CB4690B
+    span:
+      vol: CI_Śaikṣa 81
+      start: 0
+      end: 104
+  430e536cc2a84d719192f934fadd264a:
+    work_id: WC1F45311
+    span:
+      vol: CI_Śaikṣa 82
+      start: 0
+      end: 90
+  f9fe0c8825ba468898f958226306504b:
+    work_id: W8A29B97A
+    span:
+      vol: CI_Śaikṣa 83
+      start: 0
+      end: 89
+  c41668ffce544d98ab5738d076b0e689:
+    work_id: W122A7A8D
+    span:
+      vol: CI_Śaikṣa 84
+      start: 0
+      end: 67
+  793a5ff5d2504bbdad0cf7f80ea11406:
+    work_id: WB0870E58
+    span:
+      vol: CI_Śaikṣa 85
+      start: 0
+      end: 66
+  e98fe344a72f4616b548c0a69ed1ede8:
+    work_id: WB9EDFFFD
+    span:
+      vol: CI_Śaikṣa 86
+      start: 0
+      end: 66
+  da4e67682b324877abef96d68ff56246:
+    work_id: WF62D54DD
+    span:
+      vol: CI_Śaikṣa 87
+      start: 0
+      end: 67
+  87c97654a447417680d64d4713632ea4:
+    work_id: W340EA137
+    span:
+      vol: CI_Śaikṣa 88
+      start: 0
+      end: 69
+  3ebf1b09f7984037ab9603f4c259232a:
+    work_id: WE066E42E
+    span:
+      vol: CI_Śaikṣa 89
+      start: 0
+      end: 65
+  92e66df25bf6411f9615e5001e16de4c:
+    work_id: W09119FF5
+    span:
+      vol: CI_Śaikṣa 9
+      start: 0
+      end: 57
+  3fb3aead37b140e08bde667804946a76:
+    work_id: W286E89B0
+    span:
+      vol: CI_Śaikṣa 90
+      start: 0
+      end: 66
+  1012e2e09cea4dc7a75279a7e64be619:
+    work_id: W119B6114
+    span:
+      vol: CI_Śaikṣa 91
+      start: 0
+      end: 66
+  c8184890ae184519b4fd4ee60e5a1a46:
+    work_id: W3DD134D1
+    span:
+      vol: CI_Śaikṣa 92
+      start: 0
+      end: 65
+  38affb1ffc7a4ef790232af9dd47f522:
+    work_id: W91B74989
+    span:
+      vol: CI_Śaikṣa 93
+      start: 0
+      end: 68
+  25e16d9933664cc1bb10829714adadb2:
+    work_id: W155885F9
+    span:
+      vol: CI_Śaikṣa 94
+      start: 0
+      end: 68
+  1e49761a9d5b40a983f8053cad7664bd:
+    work_id: W2F9D4EAA
+    span:
+      vol: CI_Śaikṣa 95
+      start: 0
+      end: 66
+  41be7199d75c45d8975a556f8cb1227c:
+    work_id: WBDCB8947
+    span:
+      vol: CI_Śaikṣa 96
+      start: 0
+      end: 68
+  8cdd5618914f4dbdb8679800244cd040:
+    work_id: WAD53E1AA
+    span:
+      vol: CI_Śaikṣa 97
+      start: 0
+      end: 66
+  021143566ef04a7990207f6404642ab3:
+    work_id: W4B89C7BF
+    span:
+      vol: CI_Śaikṣa 98
+      start: 0
+      end: 68
+  3070de82e2f546ec95babded7c1c5051:
+    work_id: W5C3A7A77
+    span:
+      vol: CI_Śaikṣa 99
+      start: 0
+      end: 66
